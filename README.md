@@ -4,6 +4,9 @@ I love dogs. But tesla here claims that pigeons are much superior and says that 
 The site contains two main paragraphs and an image supplied too.
 Georgey: supports dogs and will be writing a persuasive paragraph about the species Man knows with the title "Man's Best Friend". Will also follow up the paragraph with a picture of a cute dog that will give the reader of the page no choice but to side with georgey in his debate that dogs are better than pigeons. Which, will deficate on your roof and car.
 
+Tesla: supports pigeons and will be stating all of the reasons that pigeons are better than dogs. I will follow up with a personal picture of myself and a pigeon that I truly cared for. Of course until a wild probably rabies infected mangey dog with little dignity covered in mud and feces ate it.
+
+
 #MIT License
 
 Copyright (c) 2020 Georgey Kurien
